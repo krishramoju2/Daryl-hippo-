@@ -2,7 +2,7 @@
 // Note: This is not secure for production - only for demo purposes
 // For a real application, you should use a backend service to handle the API key
 
-const DEEPGRAM_API_KEY = 'YOUR_DEEPGRAM_API_KEY'; // Replace with your actual key
+const DEEPGRAM_API_KEY = 'f3f80bf15c4ba53a4a0a93ecae2981546bd54485'; // Replace with your actual key
 
 let socket;
 let isRecording = false;
